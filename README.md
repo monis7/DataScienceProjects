@@ -8,7 +8,7 @@ Breast Cancer Detection
 
 Stroke Prediction
 * Performed EDA on a Healthcare dataset from Kaggle in order to determine important features for predicting whether a person had a stroke or not.
-* Implemented three different models and compared them. 
+* Implemented two different models and compared them. 
 * Written report for the entire project with future recommendations can be found in the repository.
 
 Traffic collision
